@@ -3,7 +3,7 @@
     "new_install_prompt_erase": true,
     "builds": [
       {
-        "chipFamily": "ESP32S3",
+        "chipFamily": "ESP32-S3",
         "parts": [
           { "path": "V2 Firmware/vBeta_0_1/releaseCandidate2.ino.merged.bin", "offset": 0 }          
         ]
