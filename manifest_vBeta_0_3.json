@@ -1,0 +1,13 @@
+{
+    "name": "BERTOS vBeta.0.3",
+    "new_install_prompt_erase": true,
+    "builds": [
+      {
+        "chipFamily": "ESP32-S3",
+        "parts": [
+          { "path": "V2 Firmware/vBeta_0_3/releaseCandidate2.ino.merged.bin", "offset": 0 }          
+        ]
+      }
+      
+    ]
+  }
