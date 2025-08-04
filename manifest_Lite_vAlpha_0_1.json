@@ -1,0 +1,13 @@
+{
+    "name": "BERTOS vAlpha.0.1",
+    "new_install_prompt_erase": true,
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          { "path": "Lite Firmware/vAlpha_0_1/releaseCandidate2.ino.merged.bin", "offset": 0 }          
+        ]
+      }
+      
+    ]
+  }
